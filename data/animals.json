@@ -180,6 +180,15 @@
         "hungry"
       ],
       "id": "18"
+    },
+    {
+      "name": "Max",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "shy"
+      ],
+      "id": "19"
     }
   ]
 }
